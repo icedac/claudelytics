@@ -126,3 +126,4 @@ $RECYCLE.BIN/
 .directory
 .Trash-*
 .nfs*
+.claude/settings.local.json
